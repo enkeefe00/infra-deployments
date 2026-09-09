@@ -4,6 +4,9 @@ The `smee-client` component deploys [gosmee][gs] in client mode.
 
 This allows a cluster to consume webhooks forwarded via our Smee service.
 
+**Structure Migration Status**: In Progress
+**Kargo Onboarding Status**: Not Started
+
 ## Webhook forwarding service
 
 For development, use [hook.pipelinesascode.com][hpac] to create webhook

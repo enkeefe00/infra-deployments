@@ -2,6 +2,9 @@
 
 This component contains automations to test that Disaster Recovery processes work as expected.
 
+**Structure Migration Status**: In Progress
+**Kargo Onboarding Status**: Not Started
+
 ## Prerequisites
 
 - [kind](https://kind.sigs.k8s.io/)

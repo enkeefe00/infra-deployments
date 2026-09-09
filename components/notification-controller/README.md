@@ -4,6 +4,9 @@ title: Notification Controller
 
 ## Notification Controller
 
+**Structure Migration Status**: In Progress
+**Kargo Onboarding Status**: In Progress
+
 This controller sends push pipelineruns results to [AWS SNS service](https://aws.amazon.com/sns/).
 It watches for `push pipelineruns`, extract the results from pipelineruns that ended successfully 
 and sends them to a topic defined in `AWS SNS`.

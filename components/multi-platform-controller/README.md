@@ -1,5 +1,8 @@
 # multi-platform-controller
 
+**Structure Migration Status**: Completed
+**Kargo Onboarding Status**: Not Started
+
 Konflux multi-platform-controller overlays, organized by ring.
 
 | Ring | Clusters |

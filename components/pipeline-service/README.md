@@ -17,6 +17,9 @@ Configuration documentation:
 
 [Downstream documentation for OpenShift Pipelines](https://docs.openshift.com/pipelines/1.15/about/understanding-openshift-pipelines.html)
 
+**Structure Migration Status**: In Progress
+**Kargo Onboarding Status**: Not Started
+
 ## Kustomize verification commands
 
 All commands in this section are relative to the infra-deployments repository root directory

@@ -2,6 +2,9 @@
 
 This component manages all the Kyverno Policies required from our Konflux instances.
 
+**Structure Migration Status**: In Progress
+**Kargo Onboarding Status**: Not Started
+
 ## Structure
 
 For each of the following environment there is a dedicated a folder.

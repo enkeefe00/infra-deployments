@@ -1,5 +1,8 @@
 # Konflux Operator Component
 
+**Structure Migration Status**: Completed
+**Kargo Onboarding Status**: In Progress
+
 This directory holds the **manifests** used by Argo CD on OpenShift to install the
 [Konflux operator](https://github.com/konflux-ci/konflux-ci) and to define a default
 `Konflux` custom resource (instance configuration). Cluster operators and maintainers
